@@ -20,3 +20,8 @@
 - Install NodeJS [[Download](http://nodejs.org/)]
 
 ### Other Applications
+- Install Adobe Photoshop
+- Install Adobe Fireworks
+- Install Dropbox [[Download](https://www.dropbox.com/)]
+- Install uTorrent [[Download](http://www.utorrent.com/)]
+- Install FeedReader [[Download](http://feedreader.com/download)]
