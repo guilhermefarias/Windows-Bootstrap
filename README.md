@@ -5,6 +5,7 @@
 ### Essencial
 - Install Firefox [[Download](http://www.firefox.com)]
 - Install Cygwin [[Download](http://cygwin.com/install.html)]
+- Install cmder [[Download](http://bliker.github.io/cmder/)]
 - Install WinRAR [[Download](http://www.win-rar.com/download.html)]
 
 ### System config
